@@ -5,7 +5,6 @@ import './ImageUpload.css';
 //import  firebase from "firebase";
 //import firebase from "./firebase";
 
-//app.js maa yesto gareko xa? khoi ta haha
 
 function ImageUpload({username}) {
     const [image, setImage] = useState(null);
